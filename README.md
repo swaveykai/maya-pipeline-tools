@@ -1,5 +1,5 @@
-# Maya Pipeline Tools
-A collection of Python utility scripts for Maya, built to support
+# Essential Maya Pipeline Tools :)
+Hi there! Here is a collection of Python utility scripts for Maya, built to support
 layout and technical art pipelines in VFX and games production.
 
 ## Scripts
